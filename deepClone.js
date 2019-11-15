@@ -1,4 +1,4 @@
-/**
+/**==
 * deep clone
 * @param  {[type]} parent object 需要进行克隆的对象
 * @return {[type]}        深克隆后的对象
